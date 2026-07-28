@@ -1,11 +1,17 @@
-h1 {
+#main-title {
 
     color: blue;
 
 }
 
+.important {
+
+    color: red;
+
+}
+
 p {
 
-    color: gray;
+    font-size: 20px;
 
 }
